@@ -1,0 +1,5 @@
+.* export-ignore
+example/ export-ignore
+phpunit.xml.dist export-ignore
+infection.json export-ignore
+tests/ export-ignore

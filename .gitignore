@@ -1,0 +1,11 @@
+!*.gitkeep
+.idea/
+
+vendor/
+composer.lock
+.phpunit.cache/
+/mutation-report.html
+/phpunit.xml
+/.tmp/
+/logs/
+/.phpunit.result.cache
