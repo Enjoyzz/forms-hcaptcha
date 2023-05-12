@@ -31,5 +31,11 @@
         ],
         "phpcs": "./vendor/bin/phpcs --standard=PSR12 src",
         "phpcbf": "./vendor/bin/phpcbf --standard=PSR12 src"
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "infection/extension-installer": true
+        }
     }
 }
