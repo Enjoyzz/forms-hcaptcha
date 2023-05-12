@@ -3,8 +3,8 @@
     "description": "Addon for enjoys/forms",
     "license": "MIT",
     "require": {
-        "php": ">= 8.0",
-        "enjoys/forms": "^5.4",
+        "php": "^8.0",
+        "enjoys/forms": "^5.4 <=5.6.1",
         "guzzlehttp/guzzle": "^7.1"
     },
     "require-dev": {
